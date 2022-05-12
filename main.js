@@ -24,7 +24,7 @@ function displayInformation(displayLogo){
     }
     help();
 }
-//console.log(inputArr);
+
 
 let action = userInput[0];
 
@@ -40,7 +40,6 @@ switch (action) {
          break;
     default:
          displayInformation(true);
-         //console.log("Input is not valid, try again");
          break;
 }
 

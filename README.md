@@ -9,4 +9,4 @@ Type `zeno` on your command line to display package details
 
 #### Command line interface working screen
 
-![Wokring screen](.\images\workingScreen.png "CLI Display for program")
+![Wokring screen](FileOrganiser\images\workingScreen.PNG "CLI Display for program")

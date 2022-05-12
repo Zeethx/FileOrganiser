@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "@zeeth/fileorganizer",
+  "version": "1.0.0",
+  "description": "A CLI tool to organize/display files in a directory.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filesystem",
+    "organizer",
+    "fileorganizer",
+    "organizefiles"
+  ],
+  "author": "zeethx",
+  "license": "ISC",
+  "bin": {
+    "zeno": "main.js"
+  }
+}
